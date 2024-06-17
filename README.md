@@ -16,11 +16,5 @@ This is a simple and professional stopwatch web application built using HTML, CS
 - **CSS**: For styling the web page.
 - **JavaScript**: For implementing the stopwatch functionality.
 
-## Project Structure
 
-project-directory/
-│
-├── index.html
-├── styles.css
-└── script.js
 
