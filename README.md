@@ -23,3 +23,4 @@ project-directory/
 ├── index.html
 ├── styles.css
 └── script.js
+
